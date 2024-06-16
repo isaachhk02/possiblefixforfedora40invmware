@@ -1,8 +1,3 @@
 # Fixing Fedora 40 in VMware Workstation with 3D acceleration
 
 # Warning! This it's experimental thing! It's possible maybe doesn't work i told you more later
-
-1.- Select "Start Fedora ..." In the GRUB menu press 'E' key for edit the GRUB
-2.- In the line say linux in the end. write this text update_drm="wget https://github.com/isaachhk02/fixingvmware3dfedora40/raw/main/fix.sh --output-file /home/liveuser/fix.sh && bash /home/liveuser/fix.sh"
-3. Now when the system starts to run before run the desktop updates the library libdrm and run Plasma.
-4. Cross your fingers!
