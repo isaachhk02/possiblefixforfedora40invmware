@@ -9,7 +9,7 @@ Can see SVGA3D Adapter
 # Acceleration: No
 VRAM: 1MB
 
-(https://github.com/isaachhk02/fixingvmware3dfedora40/blob/main/imgs/evidence2.png?raw=true)
+<img src="https://github.com/isaachhk02/fixingvmware3dfedora40/blob/main/imgs/evidence2.png?raw=true" />
 
 # So that's a problem it's vmwgfx kernel module
 
