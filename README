@@ -12,3 +12,4 @@ VRAM: 1MB
 ## So that's a problem it's vmwgfx kernel module
 
 UPDATE 12:10 am I discover plasma-workspace-x11 not installed and im installing now other package not installed it's xorg-server 
+I think i need see all possibilities
