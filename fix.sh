@@ -1,8 +1,9 @@
 #!/bin/bash
 # by isaachhk02 (Isaac Ordoñez Fornós)
 
-# Kill Xorg process before update libdrm package
-killall Xorg
+# Kill Xorg and Wayland process before update libdrm package
+sudo killall Xorg
+sudo killall Xwayland
 echo "Updating libdrm (possible fix)"
 sudo dnf install libdrm -y
 echo "Done!"
