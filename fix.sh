@@ -3,7 +3,7 @@
 
 # Kill Xorg and Wayland process before update libdrm package
 systemctl stop sddm
-echo "Updating libdrm (possible fix)"
-sudo dnf install libdrm -y
+echo "Updating vmware tools (possible fix)"
+sudo dnf install open-vm-tools-test -y
 echo "Done!"
 startplasma
