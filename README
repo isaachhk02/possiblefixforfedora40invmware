@@ -1,0 +1,6 @@
+# Fixing Fedora 40 in VMware Workstation with 3D acceleration
+
+# Warning! This it's experimental thing! It's possible maybe doesn't work i told you more later
+
+1.- Select "Start Fedora ..." In the GRUB menu press 'E' key for edit the GRUB
+2.- In the line say linux in the end. write this update_drm="wget "
