@@ -8,7 +8,8 @@ After make some changes like removing the next package:
 Can see SVGA3D Adapter
 # Acceleration: No
 VRAM: 1MB
-<img src="https://github.com/isaachhk02/fixingvmware3dfedora40/blob/main/imgs/evidence2.png?raw=true"/>
+
+
 # So that's a problem it's vmwgfx kernel module
 
 # UPDATE 12:10 am I discover plasma-workspace-x11 not installed and im installing now other package not installed it's xorg-server 
