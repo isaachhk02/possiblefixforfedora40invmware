@@ -12,6 +12,9 @@ Now with DirectX 11 can see now works good
 The log with DirectX 11
 ![image](https://github.com/user-attachments/assets/d2a4d1d6-f866-4eaf-b1b1-1d7f8ed35718)
 
+The logs:
+[vmware.log](https://github.com/user-attachments/files/16742146/vmware.log)
+[vmware-0.log](https://github.com/user-attachments/files/16742147/vmware-0.log)
 
 
 Well.
@@ -38,6 +41,7 @@ Cross your fingers!
 
 If the issue persists you can the lines before mentioned in the `vmx` file located on your Documents folder and `Virtual Machines` folder open the folder with the VM name
 and open the vmx files
+
 Example:
 If the VM name it's Fedora 40 find the vmx file with that name and open with text editor
 
