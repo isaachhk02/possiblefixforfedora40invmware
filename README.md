@@ -5,7 +5,8 @@ And that works. This issue it's the responsable the black screen of Fedora 40 in
 
 The problem of DirectX 12:
 ![image](https://github.com/user-attachments/assets/4c511ba4-2e30-459c-9806-ff607442c0fd)
-
+You can see LostRenderer error
+Whatever using OpenGL or DirectX 11 works good
 Now with DirectX 11 can see now works good
 ![image](https://github.com/user-attachments/assets/533288e8-4c4e-4b57-9080-d5caf2eda9ba)
 The log with DirectX 11
