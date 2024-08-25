@@ -33,3 +33,4 @@ If the VM name it's Fedora 40 find the vmx file with that name and open with tex
 and write the lines before mentioned
 
 # Warning: If you doesn't specify the lines correctly cannot use the VM! The only fix for revert changes it's open the `vmx` again and remove the lines before mentioned.
+# You cannot specify two renderers ! for example if you enabled DX11 and OpenGL one only can be used
