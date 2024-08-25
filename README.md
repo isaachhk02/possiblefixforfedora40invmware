@@ -1,7 +1,7 @@
 # Posible theoric problem about Fedora 40 in VMware Workstation with 3D acceleration in Windows 11
 
 I see in vmware.log a errors on this log in relation with DirectX 12 i think what happens if change the renderer to DX11 or OpenGL?
-And that works.
+And that works. This issue it's the responsable the black screen of Fedora 40 in VMware 
 
 The problem of DirectX 12:
 ![image](https://github.com/user-attachments/assets/4c511ba4-2e30-459c-9806-ff607442c0fd)
