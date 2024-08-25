@@ -7,7 +7,7 @@ Well.
 # How to fix that?
 
 You need go to AppData folder for that go to Start Menu and search for `%appdata%` and press enter. 
-after that find the folder called VMware and open it and the inside of that folder the same but with the folder name VMware Workstation
+after that find the folder called VMware and open it
 Open `preferences.ini` with notepad or other text editor.
 
 and add this lines:
